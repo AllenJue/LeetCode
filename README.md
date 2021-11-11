@@ -9,6 +9,6 @@ The discussion posts are formatted in the order that I completed the problems, a
 
 # Problem Solutions
 [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/discuss/940977/java-bfs-simple-on-w-explanation) <br /> 
-[1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/discuss/941015/Java-Intuitive-Code-O(N)-w-Explanation)
+[1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/discuss/941015/Java-Intuitive-Code-O(N)-w-Explanation) <br />
 [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/discuss/939823/java-0-ms-intuitive-code-w-explanation)
 
